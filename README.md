@@ -11,11 +11,10 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/msv19)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/solaivenkatesan)
 
-- I’m currently working on building my knowledge in the field of Data Science!
-  - Learning Computer Vision
+- I’m currently working on building my knowledge in the field of ML!
+  - Learning Full Stack UI development
   - Learning how to deploy ML Models in production
-  - Reading papers on ML/DL
-  - Finish my Master Thesis
+  - Reading papers on ML/DL mainly on image synthesis
 - I’m currently learning : 
   - GANs Specialization [Professional Certificate](https://www.coursera.org/specializations/generative-adversarial-networks-gans?)
   - Generative Deep Learning [Book](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
